@@ -3,7 +3,7 @@
    "title": "Take on Magic Items (unofficial)",
    "description": "Take on Magic Items from Take On Rules (unofficial)",   
    "author": "Mestre Digital",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
@@ -16,7 +16,7 @@
       }
     ],
   "system": "dungeonworld",
-  "url": "https://github.com/brunocalado/10plus-v2-moremagicitems",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/10plus-v2-moremagicitems/main/module.json",  
-  "download": "https://codeload.github.com/brunocalado/10plus-v2-moremagicitems/zip/main"               
+  "url": "https://github.com/brunocalado/takeonmagicitems",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/takeonmagicitems/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/takeonmagicitems/zip/main"               
 }
