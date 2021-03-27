@@ -3,14 +3,14 @@
    "title": "Take on Magic Items (unofficial)",
    "description": "Take on Magic Items from Take On Rules (unofficial)",   
    "author": "Mestre Digital",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
       {
-        "name": "takeonmagicitems",
+        "name": "take-on-magic-items",
         "label": "Take on Magic Items",
-        "path": "packs/takeonmagicitems.db",
+        "path": "packs/take-on-magic-items.db",
         "entity": "Item",
         "module": "takeonmagicitems"
       }
