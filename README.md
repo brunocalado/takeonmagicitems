@@ -16,7 +16,7 @@ These items are from the **Take on Magic Items** from **Take On Rules (unofficia
 
 ## Manual Instalation
 1. Go to **modules** and use the link: 
-Use this: https://raw.githubusercontent.com/brunocalado/10plus-v2-moremagicitems/main/module.json
+Use this: https://raw.githubusercontent.com/brunocalado/takeonmagicitems/main/module.json
 
 # Changelog
 You can check changes at [CHANGELOG](CHANGELOG.md)
