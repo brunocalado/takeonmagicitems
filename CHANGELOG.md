@@ -1,3 +1,6 @@
+# 0.0.6
+0.8x ok
+
 # 0.0.5
 manifest fix
 
